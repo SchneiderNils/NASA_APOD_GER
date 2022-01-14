@@ -1,5 +1,4 @@
 [![forthebadge](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://python.org)
-[![forthebadge](https://img.shields.io/github/followers/SchneiderNils.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/SchneiderNils)
 
 [![forthebadge made-with-python]( 	https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nilsschneider)
 
