@@ -11,6 +11,7 @@
 - [x] Twitter API anbinden (Bot Account)
 - [x] DeepL API anbinden (Übersetzung)
 - [x] Bot Start E-Mail (Ausfälle)
+- [ ] README.md ordentlich machen
 
 ## Website
 - [ ] Startseite
